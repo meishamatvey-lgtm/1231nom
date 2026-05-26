@@ -1,1 +1,12 @@
-Nothing should be ignored in this case, as the changes only include source files (.js, .html, .css) without any build artifacts, dependencies, or temporary files.
+```
+# Godot-specific ignores
+.addons/
+.import/
+.ios/
+.linux/
+.osx/
+.windows/
+.vs/
+*.import
+export_presets.cfg
+```
