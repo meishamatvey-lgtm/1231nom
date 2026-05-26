@@ -1,0 +1,1 @@
+Craft a stunning, tranquil 3D game for both PC and mobile devices. The game features a main menu and settings. Players explore a vibrant, picturesque city, collecting coins and enjoying a serene experience. There are many files in the new folder. The game is created in HTML, JavaScript, and CSS.
